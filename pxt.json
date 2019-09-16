@@ -1,0 +1,14 @@
+{
+    "name": "OLED",
+    "version": "1.0.0",
+    "description": "OLED 128 x 64 @THYCoding </>",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "OLED.ts"
+    ],
+    "public": true
+}
